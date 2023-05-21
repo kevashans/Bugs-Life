@@ -1,0 +1,3 @@
+C:/Wihanto_Kevas_CA3/cmake-build-debug/CMakeFiles/bugs_life.dir
+C:/Wihanto_Kevas_CA3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Wihanto_Kevas_CA3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

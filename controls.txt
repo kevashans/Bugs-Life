@@ -1,0 +1,3 @@
+1. Tap board: click left mouse button to tap
+2. Play board : use arrow buttons to move
+3. click on bugs to display its detail
